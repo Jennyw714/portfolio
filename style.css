@@ -1,0 +1,26 @@
+div.yelp {
+  background-color: #ffd4e2;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+  height: 10em; 
+  Text-align:center;
+}
+
+div.maps {
+  background-color: #7AADDF;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+  height: 10em; 
+  Text-align:center;
+}
+
+div.health {
+  background-color:#B99DC6;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+  height: 10em; 
+  Text-align:center;
+}
